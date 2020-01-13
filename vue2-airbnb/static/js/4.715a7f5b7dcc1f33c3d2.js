@@ -1,2 +1,0 @@
-webpackJsonp([4],{fjQk:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("Sitemap")])},staticRenderFns:[]},a=n("VU/8")({name:"Sitemap",data:function(){return{}}},r,!1,null,null,null);t.default=a.exports}});
-//# sourceMappingURL=4.715a7f5b7dcc1f33c3d2.js.map
